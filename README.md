@@ -1,2 +1,3 @@
 # TestLibrairiesPython
-Je teste et révise quelques principales librairies python
+JQuelques librairies principales python utiles et intéressantes ...
+**Panda, numpy, matplotlib, sklearn, seaborn, tensorflox,etc...**
